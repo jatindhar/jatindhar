@@ -1,5 +1,5 @@
 <h2> Hemlo People, I'm Jatindra Dhar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media1.giphy.com/media/Wtb5l7x8Pgumzr9iTA/giphy.gif?cid=ecf05e47ksk9xphdqtjm4ujnypmmhp2agbsis5c0ohr67k1c&rid=giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/STwp4Yul3gbTzcOYs0/giphy.gif?cid=ecf05e4732b6173e9d8c211497f58cfb38c00f7906a1fa6a&rid=giphy.gif" width="230">
 
 
 
