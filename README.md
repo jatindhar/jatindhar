@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on A ***Full Stack Web Development*** :satellite:
-- 🌱 I’m currently learning digital Marketing :tv:
-- 💬 Ask me about Gadgets & Mobiles :iphone:
+- 🔭 I’m currently working on  ***Full Stack Web Development*** :satellite:
+- 🌱 I’m currently learning ***Digital Marketing*** :tv:
+- 💬 Ask me about ***Gadgets & Mobiles*** :iphone:
 - ⚡ Fun fact: Most people fall asleep in seven minutes. But for me it is 0.01 sec!! :neutral_face:  
 
 ![jatindhar's github stats](https://github-readme-stats.vercel.app/api?username=jatindhar&count_private=true&show_icons=true&theme=merko)<a href="https://github.com/jatindhar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhar&layout=compact&theme=radical"/></a>
