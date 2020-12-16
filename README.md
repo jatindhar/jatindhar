@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on A Full Stack Web Development :satellite:
+- 🔭 **I’m currently working on A Full Stack Web Development** :satellite:
 - 🌱 I’m currently learning digital Marketing :tv:
 - 💬 Ask me about Gadgets & Mobiles :iphone:
 - ⚡ Fun fact: Most people fall asleep in seven minutes. But for me it is 0.01 sec!! :neutral_face:  
