@@ -1,6 +1,6 @@
 <h2> Hemlo People, I'm Jatindra Dhar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media0.giphy.com/media/STwp4Yul3gbTzcOYs0/giphy.gif?cid=ecf05e4732b6173e9d8c211497f58cfb38c00f7906a1fa6a&rid=giphy.gif" width="230">
-
+<img align='right' src="https://media0.giphy.com/media/Ylf9GukWyy5c5sQkSN/giphy_s.gif?cid=ecf05e47gebk0kwn2uljduwsc31kg00r82gwh6zj9pi5pd3h&rid=giphy_s.gif" width="230">
 
 
 - 🔭 I’m currently working on  ***Full Stack Web Development*** :satellite:
