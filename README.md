@@ -21,4 +21,4 @@
 <!-- markdownlint-enable MD033 -->
 <!-- markdownlint-enable MD033 -->
 
-:computer: Made with :heart: by **Jatin Dhar**
+ Made with :heart: by **Jatin Dhar**
