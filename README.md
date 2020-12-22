@@ -27,4 +27,4 @@
 <!-- markdownlint-enable MD033 -->
 <!-- markdownlint-enable MD033 -->
 
- Made with <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Beating_Heart.gif" width="10"> by **Jatin Dhar**
+ Made with <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Beating_Heart.gif" width="30"> by **Jatin Dhar**
