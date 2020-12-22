@@ -12,7 +12,7 @@
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Console](https://img.icons8.com/color/30/console.png)
 
-## :incoming_envelope: Reach Me Out In
+## :incoming_envelope: Reach Me Out In <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <a href="https://www.linkedin.com/in/jatin-dhar-362b2319b/"><img alt="linkedin" title="linkedin" height="30" width="30" src="https://github.com/peterthehan/peterthehan/blob/master/assets/linkedin.svg"></a>
 <a href="https://www.instagram.com/jatin.dhar/"><img alt="Instagram" title="Instagram" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a>
