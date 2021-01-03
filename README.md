@@ -1,4 +1,4 @@
-<h2> Hemlo People, I'm Jatindra Dhar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hemlo People, I'm Supali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/4Z0Lbfh9wNV2ZFPac3/giphy.gif?cid=ecf05e47p5mje4snyn5traphy7vrcfexfingilllxg4lszyy&rid=giphy.gif" width="230">
 
 - 🔭 I’m currently working on  ***Full Stack Web Development*** :satellite:
