@@ -1,5 +1,5 @@
 <h2> Hemlo People, I'm Jatindra Dhar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media0.giphy.com/media/kdXXwDNe3j0AG6dUuF/giphy.gif" width="300">
+<img align='right' src="https://media3.giphy.com/media/wacnUsISsXR7IrmyQq/giphy.gif?cid=ecf05e47ocg95m713jws58va3fkuvbemccfu2p02yxrm62uj&rid=giphy.gif" width="200">
 
 - 🔭 I’m currently working on  ***Full Stack Web Development*** :satellite:
 - 🌱 I’m currently learning ***Digital Marketing*** :tv:
