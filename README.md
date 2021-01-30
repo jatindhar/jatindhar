@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on  ***Full Stack Web Development*** :satellite:
 - 🌱 I’m currently learning ***Digital Marketing*** :tv:
 - 💬 Ask me about ***Gadgets & Mobiles*** :iphone:
-- ⚡ We Live, We Love, We lie :neutral_face:  
+- ⚡ ***We Live, We Love, We lie*** :heart:  
 
 ![jatindhar's github stats](https://github-readme-stats.vercel.app/api?username=jatindhar&count_private=true&show_icons=true&theme=merko)<a href="https://github.com/jatindhar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhar&layout=compact&theme=radical"/></a>
 
