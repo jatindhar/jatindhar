@@ -23,7 +23,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jatindhar&label=PROFILE+VIEWS)
 
-[![Spotify](https://novatorem.jatindhar.vercel.app//api/spotify)](https://open.spotify.com/user/https://open.spotify.com/playlist/1gGioVqaqr3IBWCZPMLkTB)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/1gGioVqaqr3IBWCZPMLkTB)
 
 
 
