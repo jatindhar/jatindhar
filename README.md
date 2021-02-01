@@ -22,7 +22,7 @@
 <a href="https://9gag.com/404"><img alt="Twitch" title="LMAO" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitch.svg"></a>
 
 
-[![Spotify](https://novatorem-git-master.jatindhar.vercel.app//spotify)](https://open.spotify.com/user/zbvo757mpg92u1rtlw855g9vx)
+[![Spotify](https://https://novatorem4.jatindhar.vercel.app/spotify)](https://open.spotify.com/user/zbvo757mpg92u1rtlw855g9vx)
 
 
 
