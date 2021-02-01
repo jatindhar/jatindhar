@@ -21,7 +21,7 @@
 <a href="https://twitter.com/retrojatin"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"></a>
 <a href="https://9gag.com/404"><img alt="Twitch" title="LMAO" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitch.svg"></a>
 
-[![Spotify](https://novatorem4-git-master.jatindhar.vercel.app//api/spotify)](https://open.spotify.com/playlist/1gGioVqaqr3IBWCZPMLkTB)
+[![Spotify](https://novatorem4.jatindhar.vercel.app///api/spotify)](https://open.spotify.com/playlist/1gGioVqaqr3IBWCZPMLkTB)
 
 
 
