@@ -1,10 +1,6 @@
 <h2> Hemlo People, I'm Jatindra Dhar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/1qktVRi0xWSxQZnzPI/giphy.gif" width="250">
 
-![](https://komarev.com/ghpvc/?username=Rajchowdhury420&label=PROFILE+VIEWS)
-
-
-
 - 🔭 I’m currently working on  ***Full Stack Web Development*** :satellite:
 - 🌱 I’m currently learning ***Digital Marketing*** :tv:
 - 💬 Ask me about ***Gadgets & Mobiles*** :iphone:
@@ -25,6 +21,9 @@
 <a href="https://twitter.com/retrojatin"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"></a>
 <a href="https://9gag.com/404"><img alt="Twitch" title="LMAO" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitch.svg"></a>
 
+![](https://komarev.com/ghpvc/?username=jatindhar&label=PROFILE+VIEWS)
+
+[![Spotify](https://novatorem.jatindhar.vercel.app//api/spotify)](https://open.spotify.com/user/nenedo6969trydfada1qiw864)
 
 
 
