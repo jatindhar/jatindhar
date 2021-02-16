@@ -20,6 +20,9 @@
 <a href="https://youtu.be/MvWZOaHhaj0"><img alt="Youtube" title="Must Watch!!" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg"></a>
 <a href="https://twitter.com/retrojatin"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"></a>
 <a href="https://9gag.com/404"><img alt="Twitch" title="LMAO" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitch.svg"></a>
+<a href="https://dev.to/jatindhar">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jatin Dhar's DEV Community Profile" height="30" width="30">
+</a>
 
 [![Spotify](https://novatorem4.jatindhar.vercel.app//api/spotify)](https://open.spotify.com/playlist/1gGioVqaqr3IBWCZPMLkTB)
 
