@@ -6,8 +6,7 @@
 - 💬 Ask me about ***Gadgets & Mobiles*** :iphone:
 - ⚡ ***We Live, We Love, We lie*** :heart:  
 
-![jatindhar's github stats](https://github-readme-stats.vercel.app/api?username=jatindhar&count_private=true&show_icons=true&theme=merko)<a href="https://github.com/jatindhar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhar&layout=compact&theme=radical"/></a>
-<!-- markdownlint-enable MD033 -->
+![jatindhar's github stats](https://github-readme-stats.vercel.app/api?username=jatindhar&count_private=true&show_icons=true&theme=merko)<a href="https://github.com/jatindhar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhar&layout=compact&theme=radical"/></
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatindhar&theme=radical&hide_border=true"/>
 </br>
