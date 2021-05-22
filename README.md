@@ -36,3 +36,6 @@
 <!-- markdownlint-enable MD033 -->
 
  Made with <img src="https://thumbs.gfycat.com/MeaslyBadHoopoe-max-1mb.gif" width="20"> by **Jatin Dhar** 
+  br
+  
+  <h3 align="center">Having a Tough Day 😢? Here's a <a href=https://jatindhar.github.io/jatindhar.github.io-positivity/>Tip for You ⭐</a></h3>
