@@ -17,7 +17,7 @@
 
 ## :incoming_envelope: Reach Me Out In 
 
-<a href="https://www.linkedin.com/in/jatin-dhar-362b2319b/"><img alt="linkedin" title="linkedin" height="30" width="30" src="https://github.com/peterthehan/peterthehan/blob/master/assets/linkedin.svg"></a>
+<a href="https://cdn-icons-png.flaticon.com/512/174/174857.png"><img alt="linkedin" title="linkedin" height="30" width="30" src="https://github.com/peterthehan/peterthehan/blob/master/assets/linkedin.svg"></a>
 <a href="https://www.instagram.com/jatin.dhar/"><img alt="Instagram" title="Instagram" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a>
 <a href="https://www.facebook.com/profile.php?id=100004570387597"><img alt="Facebook" title="Facebook" height="30" width="30" src="https://github.com/smamran/fb-icons/blob/master/icons/facebook_back.png"></a>
 <a href="https://youtu.be/MvWZOaHhaj0"><img alt="Youtube" title="Must Watch!!" height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg"></a>
